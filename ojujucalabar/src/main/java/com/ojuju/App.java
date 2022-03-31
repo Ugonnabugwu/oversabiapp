@@ -1,7 +1,7 @@
 package com.ojuju;
 
 /**
- * Hello world!
+ * Hello world, i built a fucking application that will save the world from wickedness!
  *
  */
 public class App 
